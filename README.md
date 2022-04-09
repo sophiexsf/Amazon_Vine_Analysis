@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Overview
 
@@ -12,7 +12,10 @@ Reviews with fewer than 20 votes and reviews with less than 50 percent "helpful"
 
 ![Summary result table](<./result.png>)
 
-For the musical instruments category there were 60 Vine reviews and 14,477 non-Vine reviews. Of those 60 Vine reviews, 34 were 5-star, representing 56.67% of the total. Of the 14,477 non-Vine reviews, 8,212 were 5-star, representing 56.72% of the total.
+For the musical instruments category:
+* There were 60 Vine reviews and 14,477 non-Vine reviews
+* 34 Vine reviews were 5-star, and 8,212 non-Vine reviews were 5-star
+* 56.67% of the Vine reviews were 5-star. 56.72% of the non-Vine reviews were 5-star.
 
 ## Summary
 
